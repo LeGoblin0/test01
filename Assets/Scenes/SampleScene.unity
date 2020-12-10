@@ -3075,7 +3075,7 @@ MonoBehaviour:
   Boom: {fileID: 310445368}
   BoomDie: {fileID: 1591464152877727396, guid: 76052488782d63649882cc24b9419091, type: 3}
   BoomSpeed: 6
-  BoomPower: 6
+  BoomPower: 10
   WakeUpPower: -100
   WakeupDelayTime: 2
   WakeupTime: 3
