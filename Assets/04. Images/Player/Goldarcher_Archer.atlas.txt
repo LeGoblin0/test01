@@ -1,0 +1,287 @@
+
+Goldarcher_Archer.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_body A
+  rotate: true
+  xy: 402, 569
+  size: 450, 565
+  orig: 450, 565
+  offset: 0, 0
+  index: -1
+green_right hand A
+  rotate: false
+  xy: 854, 338
+  size: 159, 229
+  orig: 159, 229
+  offset: 0, 0
+  index: -1
+green_weapon
+  rotate: false
+  xy: 2, 119
+  size: 398, 900
+  orig: 398, 900
+  offset: 0, 0
+  index: -1
+red_body A
+  rotate: false
+  xy: 402, 2
+  size: 450, 565
+  orig: 450, 565
+  offset: 0, 0
+  index: -1
+red_right hand A
+  rotate: false
+  xy: 854, 107
+  size: 159, 229
+  orig: 159, 229
+  offset: 0, 0
+  index: -1
+
+Goldarcher_Archer2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_body B
+  rotate: false
+  xy: 402, 2
+  size: 378, 556
+  orig: 378, 556
+  offset: 0, 0
+  index: -1
+green_right hand B
+  rotate: false
+  xy: 782, 113
+  size: 203, 284
+  orig: 203, 284
+  offset: 0, 0
+  index: -1
+red_weapon
+  rotate: false
+  xy: 2, 110
+  size: 398, 900
+  orig: 398, 900
+  offset: 0, 0
+  index: -1
+yellow_body A
+  rotate: true
+  xy: 402, 560
+  size: 450, 565
+  orig: 450, 565
+  offset: 0, 0
+  index: -1
+yellow_right hand A
+  rotate: true
+  xy: 782, 399
+  size: 159, 229
+  orig: 159, 229
+  offset: 0, 0
+  index: -1
+
+Goldarcher_Archer3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_body C
+  rotate: true
+  xy: 402, 207
+  size: 779, 562
+  orig: 779, 562
+  offset: 0, 0
+  index: -1
+red_right hand B
+  rotate: true
+  xy: 402, 2
+  size: 203, 284
+  orig: 203, 284
+  offset: 0, 0
+  index: -1
+yellow_right hand B
+  rotate: true
+  xy: 688, 2
+  size: 203, 284
+  orig: 203, 284
+  offset: 0, 0
+  index: -1
+yellow_weapon
+  rotate: false
+  xy: 2, 86
+  size: 398, 900
+  orig: 398, 900
+  offset: 0, 0
+  index: -1
+
+Goldarcher_Archer4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_body
+  rotate: false
+  xy: 755, 24
+  size: 253, 413
+  orig: 253, 413
+  offset: 0, 0
+  index: -1
+green_left hand A
+  rotate: true
+  xy: 783, 732
+  size: 145, 155
+  orig: 145, 155
+  offset: 0, 0
+  index: -1
+yellow_left hand A
+  rotate: true
+  xy: 783, 732
+  size: 145, 155
+  orig: 145, 155
+  offset: 0, 0
+  index: -1
+red_left hand A
+  rotate: true
+  xy: 783, 732
+  size: 145, 155
+  orig: 145, 155
+  offset: 0, 0
+  index: -1
+green_left hand B
+  rotate: true
+  xy: 783, 879
+  size: 122, 171
+  orig: 122, 171
+  offset: 0, 0
+  index: -1
+yellow_left hand B
+  rotate: true
+  xy: 783, 879
+  size: 122, 171
+  orig: 122, 171
+  offset: 0, 0
+  index: -1
+red_left hand B
+  rotate: true
+  xy: 783, 879
+  size: 122, 171
+  orig: 122, 171
+  offset: 0, 0
+  index: -1
+green_left leg
+  rotate: false
+  xy: 2, 2
+  size: 249, 435
+  orig: 249, 435
+  offset: 0, 0
+  index: -1
+red_body C
+  rotate: false
+  xy: 2, 439
+  size: 779, 562
+  orig: 779, 562
+  offset: 0, 0
+  index: -1
+red_left leg
+  rotate: false
+  xy: 253, 2
+  size: 249, 435
+  orig: 249, 435
+  offset: 0, 0
+  index: -1
+yellow_left leg
+  rotate: false
+  xy: 504, 2
+  size: 249, 435
+  orig: 249, 435
+  offset: 0, 0
+  index: -1
+
+Goldarcher_Archer5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_right leg
+  rotate: true
+  xy: 2, 382
+  size: 335, 384
+  orig: 335, 384
+  offset: 0, 0
+  index: -1
+red_body
+  rotate: true
+  xy: 2, 719
+  size: 253, 413
+  orig: 253, 413
+  offset: 0, 0
+  index: -1
+red_body B
+  rotate: true
+  xy: 388, 2
+  size: 378, 556
+  orig: 378, 556
+  offset: 0, 0
+  index: -1
+red_right leg
+  rotate: true
+  xy: 388, 382
+  size: 335, 384
+  orig: 335, 384
+  offset: 0, 0
+  index: -1
+yellow_body
+  rotate: true
+  xy: 417, 719
+  size: 253, 413
+  orig: 253, 413
+  offset: 0, 0
+  index: -1
+yellow_right leg
+  rotate: true
+  xy: 2, 45
+  size: 335, 384
+  orig: 335, 384
+  offset: 0, 0
+  index: -1
+
+Goldarcher_Archer6.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_head
+  rotate: true
+  xy: 560, 278
+  size: 532, 428
+  orig: 532, 428
+  offset: 0, 0
+  index: -1
+red_head
+  rotate: false
+  xy: 2, 2
+  size: 532, 428
+  orig: 532, 428
+  offset: 0, 0
+  index: -1
+yellow_body B
+  rotate: true
+  xy: 2, 432
+  size: 378, 556
+  orig: 378, 556
+  offset: 0, 0
+  index: -1
+
+Goldarcher_Archer7.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yellow_body C
+  rotate: false
+  xy: 2, 432
+  size: 779, 562
+  orig: 779, 562
+  offset: 0, 0
+  index: -1
+yellow_head
+  rotate: false
+  xy: 2, 2
+  size: 532, 428
+  orig: 532, 428
+  offset: 0, 0
+  index: -1

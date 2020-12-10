@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Goldarcher_Archer_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 3d64369d27b5f684aa92ae77185a8ef2, type: 3}
+  materials:
+  - {fileID: 2100000, guid: bf0fb7ca5e7a35d41b52abbb6e1de63c, type: 2}
+  - {fileID: 2100000, guid: 96bd3c2e056e9fb42a3644ad74ecbb76, type: 2}
+  - {fileID: 2100000, guid: 9e87af81928c4d245a3edd6d09e062e9, type: 2}
+  - {fileID: 2100000, guid: 3c198920bf196564cbc385a230250805, type: 2}
+  - {fileID: 2100000, guid: cfe78ed6c10391f40960dd6b9c1ba3c3, type: 2}
+  - {fileID: 2100000, guid: 3f3d5e4847e57484abb6ad86beadebf0, type: 2}
+  - {fileID: 2100000, guid: 9dcb3ac8ac51668429224ec6466ef3d4, type: 2}
